@@ -1,6 +1,8 @@
 ## Tabeer-e-Khawab Consultation Platform
-A premium, fast, and fully responsive website designed to connect users with certified scholars for confidential dream consultations (Tabeer-e-Khawab). Built using pure frontend technologies.
+**A premium, fast, and fully responsive website designed to connect users with certified scholars for confidential dream consultations (Tabeer-e-Khawab). Built using pure frontend technologies.**
 ------------------------------
+<img width="1353" height="609" alt="image" src="https://github.com/user-attachments/assets/3ab66ca7-76b5-45fb-bd91-0e6070d463df" />
+
 ## 🌟 Key Features
 
 * Dream Consultation: Clean, interactive forms to submit dream details securely.
